@@ -1,0 +1,38 @@
+.header{
+  background: #006a71;
+  padding: 2rem;
+  margin-bottom: 1.5rem;
+  color: white;
+
+  height: 16rem;
+}
+.footer{
+  background: #006a71;
+  position: relative;
+      top: 100px;
+  height: 8rem;
+}
+body{
+  text-align: center;
+  background: #ffffdd;
+  font-family: 'Lobster', cursive;
+}
+.ans{
+  height:8rem;
+  font-size: 5rem;
+}
+.btn{
+  margin: 2rem;
+}
+.R2g{
+  color: #fff;
+}
+.matmaan{
+  visibility: hidden;
+  height:200px;
+  width: 200px;
+  border-radius: 100%;
+}
+.matmaan2{
+  visibility: visible;
+}
